@@ -16,5 +16,5 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-Ancoratus.pdf)
-* [ePub](epub/paperback-Ancoratus.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/Epiphanius/main/diglot/diglot-Ancoratus.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/Epiphanius/main/epub/epub-Ancoratus.epub)
